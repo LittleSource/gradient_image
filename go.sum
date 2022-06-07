@@ -1,0 +1,6 @@
+github.com/Kagami/go-face v0.0.0-20210630145111-0c14797b4d0e h1:lqIUFzxaqyYqUn4MhzAvSAh4wIte/iLNcIEWxpT/qbc=
+github.com/Kagami/go-face v0.0.0-20210630145111-0c14797b4d0e/go.mod h1:9wdDJkRgo3SGTcFwbQ7elVIQhIr2bbBjecuY7VoqmPU=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/bda v1.0.413 h1:GuPOYzWKIc+TPPo28hwlFcdlzpGbegjCjd7l24MC8Cg=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/bda v1.0.413/go.mod h1:wCkrJiQ+CJwH8wipJFJ6zYv8iIqMxoABohcP74SznYE=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.413 h1:DvydszksqriOr0Zze9OREt8OrIrtMSFcVD8lz3xNAQA=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.413/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
